@@ -1681,8 +1681,8 @@
 .u-section-8 .u-social-icons-1 {
   height: 48px;
   min-height: 16px;
-  width: 107px;
-  min-width: 42px;
+  width: 164px;
+  min-width: 68px;
   margin: 38px auto 60px;
 }
 
@@ -1691,6 +1691,10 @@
 }
 
 .u-section-8 .u-icon-3 {
+  height: 100%;
+}
+
+.u-section-8 .u-icon-4 {
   height: 100%;
 }
 
@@ -1726,10 +1730,6 @@
   .u-section-8 .u-text-1 {
     margin-top: -90px;
     margin-right: 180px;
-  }
-
-  .u-section-8 .u-social-icons-1 {
-    width: 106px;
   }
 }
 
